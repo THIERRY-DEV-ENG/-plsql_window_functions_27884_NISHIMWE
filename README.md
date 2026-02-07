@@ -30,7 +30,7 @@
 - [Installation & Setup](#-installation--setup)
 - [Key Insights](#-key-insights)
 - [Integrity Statement](#-integrity-statement)
-- [Contact](#-contact)
+
 
 ---
 
@@ -502,55 +502,7 @@ CUME_DIST provides additional granularity—a customer at 5% cumulative distribu
 
 ## 📁 Step 6: GitHub Repository
 
-### Repository Structure
 
-```
-plsql_window_functions_[studentId]_[firstname]/
-│
-├── README.md                          # This comprehensive documentation
-├── ER_Diagram.png                     # Entity Relationship Diagram
-├── ER_Diagram.html                    # Interactive ER diagram
-│
-├── sql/
-│   ├── schema/
-│   │   ├── 01_create_tables.sql      # Table creation scripts
-│   │   └── 02_sample_data.sql        # Sample data insertion
-│   │
-│   ├── joins/
-│   │   ├── inner_join.sql            # INNER JOIN queries
-│   │   ├── left_join.sql             # LEFT JOIN queries
-│   │   ├── right_join.sql            # RIGHT JOIN queries
-│   │   ├── full_outer_join.sql       # FULL OUTER JOIN queries
-│   │   └── self_join.sql             # SELF JOIN queries
-│   │
-│   └── window_functions/
-│       ├── ranking_functions.sql     # ROW_NUMBER, RANK, DENSE_RANK, PERCENT_RANK
-│       ├── aggregate_window.sql      # SUM, AVG with ROWS and RANGE
-│       ├── navigation_functions.sql  # LAG, LEAD
-│       └── distribution_functions.sql # NTILE, CUME_DIST
-│
-├── screenshots/
-│   ├── joins/
-│   │   ├── inner_join_results.png
-│   │   ├── left_join_results.png
-│   │   ├── right_join_results.png
-│   │   ├── full_outer_join_results.png
-│   │   └── self_join_results.png
-│   │
-│   └── window_functions/
-│       ├── ranking_results.png
-│       ├── aggregate_window_results.png
-│       ├── navigation_results.png
-│       └── distribution_results.png
-│
-├── docs/
-│   ├── business_analysis.md          # Detailed business insights
-│   ├── recommendations.md            # Strategic recommendations
-│   └── technical_notes.md            # Implementation notes
-│
-└── LICENSE                           # MIT License
-
-```
 
 ### Key Features
 
@@ -755,33 +707,10 @@ plsql_window_functions_[studentId]_[firstname]/
 ### Prerequisites
 
 - PostgreSQL 12+ or compatible SQL database
-- SQL client (pgAdmin, DBeaver, or psql)
+- SQL client (pgAdmin)
 - Git for repository cloning
 
-### Quick Start
 
-```bash
-# Clone the repository
-git clone https://github.com/[username]/plsql_window_functions_[studentId]_[firstname].git
-cd plsql_window_functions_[studentId]_[firstname]
-
-# Create database
-createdb rwanda_ecommerce
-
-# Run schema creation
-psql rwanda_ecommerce < sql/schema/01_create_tables.sql
-
-# Load sample data
-psql rwanda_ecommerce < sql/schema/02_sample_data.sql
-
-# Test JOINs
-psql rwanda_ecommerce < sql/joins/inner_join.sql
-
-# Test Window Functions
-psql rwanda_ecommerce < sql/window_functions/ranking_functions.sql
-```
-
----
 
 ## 📚 Step 8: References
 
@@ -841,34 +770,7 @@ I hereby declare that this assignment represents my **original work and independ
 
 > *"Whoever is faithful in very little is also faithful in much."* — Luke 16:10
 
----
 
-**Student Information:**
 
-- **Name:** [Your Full Name]
-- **Student ID:** [Your Student ID]
-- **Course:** INSY 8311 - Database Management Systems
-- **Instructor:** Eric Maniraguha
-- **Submission Date:** [Date]
 
----
 
-## 📧 Contact
-
-**Project Maintainer:** [Your Name]  
-**Email:** [your.email@example.com]  
-**GitHub:** [@yourusername](https://github.com/yourusername)
-
----
-
-<div align="center">
-
-### ⭐ Star this repository if you found it helpful!
-
-**Made with ❤️ and SQL in Kigali, Rwanda**
-
----
-
-*Last Updated: February 2026*
-
-</div>
