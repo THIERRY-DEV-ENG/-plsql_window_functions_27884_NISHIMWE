@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Academic-blue?style=for-the-badge)
 
-**INSY 8311 - PL/ SQL**  
+**INSY 8311 - Database Development with PL/ SQL**  
 **Assignment I: Window Functions & SQL JOINs**
 
 • [Documentation](#-table-of-contents) • [SQL Queries](#-step-4-sql-joins-implementation) • [Analysis](#-step-7-results-analysis)
