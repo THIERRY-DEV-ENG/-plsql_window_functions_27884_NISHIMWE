@@ -1,10 +1,26 @@
 REFERENCES CONSULTED:
 
-1. PostgreSQL Documentation. (2025). Window Functions.
-2. PostgreSQL Documentation. (2025). SELECT - Join Types.
-3. Oracle Corporation. (2025). SQL Language Reference.
-4. Microsoft. (2025). Window Functions - SQL Server.
-5. McKinsey & Company. (2024). E-commerce in Africa.
-6. Rwanda Information Society Authority. (2024). Rwanda ICT Report.
-7. Kimball, R., & Ross, M. (2013). The Data Warehouse Toolkit.
-8. Date, C. J. (2012). SQL and Relational Theory.
+PostgreSQL Global Development Group. (2025). Window Functions Tutorial. PostgreSQL Documentation.
+https://www.postgresql.org/docs/current/tutorial-window.html
+
+PostgreSQL Global Development Group. (2025). SELECT - Table Expressions and JOIN Types. PostgreSQL Documentation.
+https://www.postgresql.org/docs/current/queries-table-expressions.html
+
+Oracle Corporation. (2025). SQL Language Reference - Analytic Functions. Oracle Database Documentation.
+
+Microsoft. (2025). Window Functions (Transact-SQL). SQL Server Documentation.
+
+Industry Reports
+McKinsey & Company. (2024). E-commerce in Africa: The Evolving Landscape. McKinsey Global Institute.
+
+Rwanda Information Society Authority (RISA). (2024). Rwanda ICT Sector Performance Report 2023-2024. Government of Rwanda.
+
+Jumia Group. (2024). E-commerce Trends in Rwanda - Annual Report. Jumia Rwanda Market Analysis.
+
+Technical Resources
+Kimball, R., & Ross, M. (2013). The Data Warehouse Toolkit (3rd ed.). Wiley.
+
+Date, C. J. (2012). SQL and Relational Theory (2nd ed.). O'Reilly Media.
+
+Stack Overflow Community. (2024). PostgreSQL Window Functions - Best Practices.
+
