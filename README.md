@@ -10,7 +10,7 @@
 **INSY 8311 - Database Management Systems**  
 **Assignment I: Window Functions & SQL JOINs**
 
-[View Demo](#-installation--setup) • [Documentation](#-table-of-contents) • [SQL Queries](#-step-4-sql-joins-implementation) • [Analysis](#-step-7-results-analysis)
+• [Documentation](#-table-of-contents) • [SQL Queries](#-step-4-sql-joins-implementation) • [Analysis](#-step-7-results-analysis)
 
 </div>
 
@@ -51,7 +51,7 @@ This project demonstrates advanced SQL analytics techniques applied to a real-wo
 ### Business Context
 
 **Company Profile:**
-- **Type:** Online retail e-commerce platform (similar to Jumia Rwanda)
+- **Type:** Online retail e-commerce platform
 - **Department:** Sales and Marketing Analytics Team
 - **Industry:** Retail & E-Commerce
 - **Specialization:** Electronics, Appliances, and Books tailored to Rwanda's digital market
